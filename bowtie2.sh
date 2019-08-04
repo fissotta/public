@@ -1,6 +1,5 @@
 #!/bin/bash
-#Francisco Issotta
-#fissotta@gmail.com
+#https://github.com/fissotta
 
 if [ ${#@} != 4 ]; then
     echo "Usage:"
